@@ -2,6 +2,29 @@
 Changelog for package jaco_interaction
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.15 (2015-02-17)
+-------------------
+* Updated interactive marker to use erase_trajectories service when the marker is released, giving the arm a more consistent stop
+* Contributors: David Kent
+
+0.0.14 (2015-02-06)
+-------------------
+
+0.0.13 (2015-02-03)
+-------------------
+
+0.0.12 (2015-01-20)
+-------------------
+
+0.0.11 (2014-12-18)
+-------------------
+
+0.0.10 (2014-12-12)
+-------------------
+
+0.0.9 (2014-12-02)
+------------------
+
 0.0.8 (2014-10-22)
 ------------------
 
